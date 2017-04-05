@@ -1,3 +1,3 @@
-after clone use 
-npm install
+after clone use  - 
+npm install |
 npm start
